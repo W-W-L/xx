@@ -1,0 +1,295 @@
+@media screen and (min-width:1000px) and (max-width:1200px) {
+	.win_a {
+		width: 1000px;
+	}
+	.top_l img {
+		width: 650px;
+	}
+	.con_l {
+		width: 500px;
+	}
+	.con_r {
+		width: 475px;
+	}
+	.con_div {
+		width: 500px;
+	}
+	.con_div.li {
+		width: 475px;
+	}
+	.ztzl_ban {
+		width: 440px;
+	}
+	.tit_r {
+		width: 365px;
+	}
+	.tit_ul ul li {
+		width: 108px;
+	}
+	.rwm {
+		margin-right: 30px;
+	}
+	.gl_r {
+		width: 720px;
+	}
+}
+
+@media screen and (max-width:999px) {
+	html,
+	body {
+		width: 100%;
+		height: 100%;
+		-webkit-text-size-adjust: none;
+		text-size-adjust: none;
+		font-family: "Microsoft YaHei", "Helvetica Neue", Helvetica, STHeiTi, Arial, sans-serif;
+		-ms-text-size-adjust: 100%;
+		-webkit-text-size-adjust: 100%;
+		min-width: 100%;
+	}
+	a,
+	img {
+		-webkit-touch-callout: none;
+	}
+	/* 禁止长按链接与图片弹出菜单 */
+	html,
+	body,
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6,
+	p,
+	br,
+	form,
+	input,
+	button,
+	textarea,
+	select,
+	fieldset,
+	legend,
+	blockquote,
+	ul,
+	ol,
+	li,
+	dl,
+	dt,
+	dd,
+	pre,
+	table,
+	caption,
+	tr,
+	td,
+	th,
+	article,
+	aside,
+	details,
+	figcaption,
+	figure,
+	footer,
+	header,
+	hgroup,
+	menu,
+	nav,
+	section,
+	summary,
+	time,
+	mark,
+	audio,
+	video {
+		margin: 0;
+		padding: 0;
+	}
+	article,
+	aside,
+	details,
+	figcaption,
+	figure,
+	footer,
+	header,
+	hgroup,
+	menu,
+	nav,
+	section,
+	summary,
+	audio,
+	video {
+		display: block;
+	}
+	body {
+		-webkit-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		box-sizing: border-box;
+		overflow-x: hidden;
+		-webkit-overflow-scrolling: touch;
+		position: relative;
+		min-width: 100%;
+	}
+	* {
+		-webkit-box-sizing: border-box;
+		-ms-box-sizing: border-box;
+		box-sizing: border-box;
+		outline: none;
+	}
+	.animated {
+		-webkit-animation-duration: 0s;
+		animation-duration: 0s;
+		-webkit-animation-fill-mode: both;
+		animation-fill-mode: both
+	}
+	.contain {
+		width: 100%;
+		overflow-x: hidden
+	}
+	img {
+		max-width: 100%
+	}
+	.win_a {
+		width: auto;
+	}
+	.img_a {
+		display: block;
+	}
+	.img_b,
+	.top_tit,
+	.ban,
+	.prev,
+	.next,
+	.bottom_a {
+		display: none;
+	}
+	.con_l,
+	.con_r,
+	.con_div,
+	.con_div.li,
+	.ztzl_ban,
+	.gl_l,
+	.gl_r {
+		float: left;
+		width: 100%;
+		height: auto;
+	}
+	.con {
+		margin: 10px;
+	}
+	.top_l {
+		width: 70%;
+		margin-left: 20px;
+	}
+	.top_l img {
+		width: 100%;
+	}
+	.top_in .in1,
+	.con_top {
+		height: 37px;
+	}
+	.tit_r {
+		width: auto;
+		float: inherit;
+	}
+	.tit_l {
+		float: inherit;
+		width: auto;
+		border: none;
+		margin-bottom: 10px;
+		text-align: left;
+		display: none;
+	}
+	.con_tit {
+		background: none;
+	}
+	.tit_top {
+		padding-bottom: 15px;
+		background: url("19zzzy_xian.png") no-repeat center bottom;
+	}
+	.con.pad_t40 {
+		padding-top: 0px;
+	}
+	.con_l {
+		margin-bottom: 20px;
+	}
+	.media_a {
+		display: block;
+		border-bottom: 0px;
+		top: 30px;
+		right: 0px;
+	}
+	body.on .box {
+		background: #479b2f;
+		height: auto;
+		position: fixed;
+		left: 0px;
+		top: 0px;
+		bottom: 0px;
+		right: 0px;
+	}
+	body.on .box {
+		display: block;
+	}
+	body.on .trans-3 {
+		background: #FFFFFF;
+	}
+	.box ul li:hover,
+	.box ul li.on {
+		background: none;
+		padding: 0px;
+	}
+	.box>.win_a>ul>li {
+		float: inherit;
+		width: 100%;
+		text-align: center;
+	}
+	.box>.win_a>ul {
+		padding-top: 30px;
+	}
+	.box>.win_a>ul>li>a {
+		color: #FFFFFF;
+		height: 40px;
+	}
+	.box {
+		display: none;
+	}
+	.tit_ul ul li {
+		width: 48%;
+		margin: 1%;
+	}
+	.rwm {
+		float: inherit;
+		margin: 0 auto;
+		margin-bottom: 20px;
+	}
+	.bottom_b img {
+		float: inherit;
+		margin-right: 0px;
+	}
+	.bottom_b {
+		text-align: center;
+		padding: 0px 20px;
+	}
+	.pic_con1 .txt li a {
+		width: 70%;
+	}
+	.gl_r_top {
+		height: auto;
+		padding-left: 0px;
+	}
+	.gl_r_top span {
+		display: block;
+		text-align: center;
+	}
+	.gl_ul {
+		padding-bottom: 20px;
+	}
+	.gl_r_ul ul li span {
+		margin-right: 0px;
+	}
+	.win_a.pad_t30 {
+		padding-top: 10px;
+	}
+	.xl_p {
+		margin: 0px 20px;
+	}
+	.xl_tit {
+		padding: 20px 20px;
+	}
+}
